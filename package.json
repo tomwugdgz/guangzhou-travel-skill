@@ -1,0 +1,47 @@
+{
+  "name": "guangzhou-travel-skill",
+  "version": "0.2.0",
+  "description": "广州城市旅游指南 Skill - 景点、美食、历史、人文一站式服务 | 支持联合国6大官方语言",
+  "main": "src/mcp/server.js",
+  "scripts": {
+    "start": "node src/mcp/server.js",
+    "start:zh": "cross-env LANG=zh node src/mcp/server.js",
+    "start:en": "cross-env LANG=en node src/mcp/server.js",
+    "start:fr": "cross-env LANG=fr node src/mcp/server.js",
+    "start:ru": "cross-env LANG=ru node src/mcp/server.js",
+    "start:es": "cross-env LANG=es node src/mcp/server.js",
+    "start:ar": "cross-env LANG=ar node src/mcp/server.js",
+    "test": "node tests/skill.test.js",
+    "dev": "nodemon src/mcp/server.js"
+  },
+  "keywords": [
+    "guangzhou",
+    "travel",
+    "skill",
+    "mcp",
+    "web4",
+    "agent",
+    "multilingual",
+    "i18n",
+    "广州",
+    "旅游",
+    "美食",
+    "历史",
+    "人文",
+    "多语言"
+  ],
+  "author": "Tom & 胡允谦",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/guangzhou-travel-skill.git"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.5.0",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "nodemon": "^3.0.2"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "guangzhou-travel": {
+      "command": "node",
+      "args": ["src/mcp/server.js"],
+      "env": {
+        "SKILL_NAME": "guangzhou-travel",
+        "DATA_DIR": "src/data"
+      },
+      "disabled": false
+    }
+  }
+}

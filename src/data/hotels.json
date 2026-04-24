@@ -1,0 +1,112 @@
+[
+  {
+    "id": "hotel_001",
+    "name": "广州白天鹅宾馆",
+    "name_en": "White Swan Hotel",
+    "category": "酒店",
+    "subcategory": ["五星级", "江景", "历史名店"],
+    "description": "广州首家五星级宾馆，坐落于沙面岛，俯瞰珠江，历史悠久，服务一流。",
+    "description_en": "Guangzhou's first five-star hotel, located on Shamian Island with Pearl River views.",
+    "location": {
+      "address": "广州市荔湾区沙面南街1号",
+      "district": "荔湾区",
+      "latitude": 23.1065,
+      "longitude": 113.2445
+    },
+    "rating": 4.8,
+    "price_range": "¥800-2000/晚",
+    "phone": "020-81886968",
+    "facilities": ["游泳池", "健身房", "餐厅", "会议室", "停车场"],
+    "nearby_attractions": ["沙面岛", "上下九步行街", "珠江夜游"],
+    "tips": ["建议提前预订", "江景房视野极佳"],
+    "updated_at": "2026-04-24"
+  },
+  {
+    "id": "hotel_002",
+    "name": "广州花园酒店",
+    "name_en": "Garden Hotel Guangzhou",
+    "category": "酒店",
+    "subcategory": ["五星级", "商务", "市中心"],
+    "description": "位于环市东路商业中心，交通便利，商务设施完善。",
+    "description_en": "Located in Huanshi East Road business center with excellent transport links.",
+    "location": {
+      "address": "广州市越秀区环市东路368号",
+      "district": "越秀区",
+      "latitude": 23.1372,
+      "longitude": 113.2869
+    },
+    "rating": 4.7,
+    "price_range": "¥600-1500/晚",
+    "phone": "020-83338989",
+    "facilities": ["游泳池", "健身房", "餐厅", "商务中心", "停车场"],
+    "nearby_attractions": ["越秀公园", "广州火车站", "北京路步行街"],
+    "tips": ["商务出行首选", "靠近地铁站"],
+    "updated_at": "2026-04-24"
+  },
+  {
+    "id": "hotel_003",
+    "name": "广州富力丽思卡尔顿酒店",
+    "name_en": "The Ritz-Carlton Guangzhou",
+    "category": "酒店",
+    "subcategory": ["五星级", "奢华", "珠江新城"],
+    "description": "位于珠江新城CBD，豪华品牌，服务顶级，俯瞰珠江。",
+    "description_en": "Located in Zhujiang New Town CBD, luxury brand with Pearl River views.",
+    "location": {
+      "address": "广州市天河区珠江新城兴安路3号",
+      "district": "天河区",
+      "latitude": 23.1165,
+      "longitude": 113.3245
+    },
+    "rating": 4.9,
+    "price_range": "¥1500-4000/晚",
+    "phone": "020-38188888",
+    "facilities": ["游泳池", "SPA", "健身房", "餐厅", "行政酒廊"],
+    "nearby_attractions": ["广州塔", "海心沙", "花城广场"],
+    "tips": ["适合高端商务和度假", "提前预订有优惠"],
+    "updated_at": "2026-04-24"
+  },
+  {
+    "id": "hotel_004",
+    "name": "广州长隆酒店",
+    "name_en": "Chimelong Hotel",
+    "category": "酒店",
+    "subcategory": ["主题酒店", "亲子", "度假区"],
+    "description": "长隆旅游度假区内主题酒店，适合亲子游，可直达长隆乐园。",
+    "description_en": "Theme hotel in Chimelong Resort, perfect for families.",
+    "location": {
+      "address": "广州市番禺区大石长隆旅游度假区",
+      "district": "番禺区",
+      "latitude": 23.0025,
+      "longitude": 113.3345
+    },
+    "rating": 4.6,
+    "price_range": "¥800-2500/晚",
+    "phone": "020-84783388",
+    "facilities": ["游泳池", "儿童乐园", "餐厅", "免费接驳车"],
+    "nearby_attractions": ["长隆野生动物世界", "长隆欢乐世界", "长隆水上乐园"],
+    "tips": ["亲子游首选", "含乐园门票套餐更划算"],
+    "updated_at": "2026-04-24"
+  },
+  {
+    "id": "hotel_005",
+    "name": "广州中国大酒店",
+    "name_en": "China Hotel",
+    "category": "酒店",
+    "subcategory": ["五星级", "老字号", "流花湖"],
+    "description": "广州老牌五星级酒店，位于流花湖畔，靠近广交会展馆。",
+    "description_en": "Classic five-star hotel near Liuhua Lake and Canton Fair Complex.",
+    "location": {
+      "address": "广州市越秀区流花路",
+      "district": "越秀区",
+      "latitude": 23.1415,
+      "longitude": 113.2635
+    },
+    "rating": 4.5,
+    "price_range": "¥500-1200/晚",
+    "phone": "020-86666888",
+    "facilities": ["游泳池", "健身房", "餐厅", "会议室"],
+    "nearby_attractions": ["流花湖公园", "越秀公园", "广交会展馆"],
+    "tips": ["广交会期间需提前预订", "性价比高"],
+    "updated_at": "2026-04-24"
+  }
+]

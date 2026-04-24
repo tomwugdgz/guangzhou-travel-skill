@@ -1,0 +1,137 @@
+[
+  {
+    "id": "attraction_001",
+    "name": "广州塔",
+    "name_en": "Canton Tower",
+    "category": "地标建筑",
+    "subcategory": ["观光塔", "夜景"],
+    "description": "广州标志性建筑，高600米，是中国第一高塔。塔内设有观光层、旋转餐厅、摩天轮等设施，可俯瞰整个广州市区。",
+    "location": {
+      "address": "广州市海珠区阅江西路222号",
+      "district": "海珠区",
+      "latitude": 23.1075,
+      "longitude": 113.3208,
+      "metro": "APM线/3号线 - 广州塔站"
+    },
+    "rating": 4.8,
+    "ticket_price": "¥150-390",
+    "opening_hours": "09:30-22:30",
+    "best_time": "全年，傍晚至夜间最佳",
+    "visit_duration": "2-3小时",
+    "tips": [
+      "建议提前网上购票避免排队",
+      "傍晚前往可同时看到日落和夜景",
+      "摩天轮需额外购票"
+    ],
+    "images": ["https://example.com/canton-tower-1.jpg"],
+    "updated_at": "2026-04-24"
+  },
+  {
+    "id": "attraction_002",
+    "name": "陈家祠",
+    "name_en": "Chen Clan Ancestral Hall",
+    "category": "历史文化",
+    "subcategory": ["古建筑", "博物馆"],
+    "description": "广东现存规模最大、保存最完整的清代宗祠建筑，被誉为'岭南建筑艺术瑰宝'。建筑融合木雕、石雕、砖雕、陶塑等工艺。",
+    "location": {
+      "address": "广州市荔湾区中山七八路恩龙里34号",
+      "district": "荔湾区",
+      "latitude": 23.1239,
+      "longitude": 113.2453,
+      "metro": "1号线 - 陈家祠站"
+    },
+    "rating": 4.7,
+    "ticket_price": "¥10",
+    "opening_hours": "08:30-17:30",
+    "best_time": "全年",
+    "visit_duration": "1-2小时",
+    "tips": [
+      "建议请讲解员或租语音导览",
+      "重点观赏屋顶装饰和木雕工艺",
+      "周一闭馆"
+    ],
+    "images": ["https://example.com/chen-clan-1.jpg"],
+    "updated_at": "2026-04-24"
+  },
+  {
+    "id": "attraction_003",
+    "name": "白云山",
+    "name_en": "Baiyun Mountain",
+    "category": "自然风光",
+    "subcategory": ["山岳", "徒步"],
+    "description": "广州第一峰，海拔382米，素有'羊城第一秀'之称。山上有摩星岭、鸣春谷、云台花园等景点，是市民登山休闲的首选。",
+    "location": {
+      "address": "广州市白云区广园中路801号",
+      "district": "白云区",
+      "latitude": 23.1793,
+      "longitude": 113.3019,
+      "metro": "2号线 - 越秀公园站转公交"
+    },
+    "rating": 4.6,
+    "ticket_price": "¥5（进山）",
+    "opening_hours": "全天",
+    "best_time": "春秋季",
+    "visit_duration": "3-5小时",
+    "tips": [
+      "建议早上山，避开高温",
+      "可乘坐索道上山",
+      "自带水和零食"
+    ],
+    "images": ["https://example.com/baiyun-mountain-1.jpg"],
+    "updated_at": "2026-04-24"
+  },
+  {
+    "id": "attraction_004",
+    "name": "南越王博物院",
+    "name_en": "Nanyue King Museum",
+    "category": "历史文化",
+    "subcategory": ["博物馆", "遗址"],
+    "description": "以南越文王墓原址建立的博物馆，展示2000多年前南越国历史文物。墓室保存完好，是岭南地区发现的最大汉代彩石壁画墓。",
+    "location": {
+      "address": "广州市越秀区解放北路867号",
+      "district": "越秀区",
+      "latitude": 23.1372,
+      "longitude": 113.2644,
+      "metro": "2号线 - 越秀公园站"
+    },
+    "rating": 4.7,
+    "ticket_price": "¥10",
+    "opening_hours": "09:00-17:30",
+    "best_time": "全年",
+    "visit_duration": "2小时",
+    "tips": [
+      "重点看丝缕玉衣和壁画",
+      "墓室原址非常震撼",
+      "周一闭馆"
+    ],
+    "images": ["https://example.com/nanyue-king-1.jpg"],
+    "updated_at": "2026-04-24"
+  },
+  {
+    "id": "attraction_005",
+    "name": "珠江夜游",
+    "name_en": "Pearl River Night Cruise",
+    "category": "观光体验",
+    "subcategory": ["夜游", "游船"],
+    "description": "乘坐游船夜游珠江，欣赏两岸灯光秀和地标建筑夜景，包括广州塔、海心沙、猎德大桥等。是体验广州现代都市魅力的最佳方式。",
+    "location": {
+      "address": "广州市越秀区天字码头/大沙头码头",
+      "district": "越秀区",
+      "latitude": 23.1115,
+      "longitude": 113.2733,
+      "metro": "6号线 - 北京路站"
+    },
+    "rating": 4.5,
+    "ticket_price": "¥68-168",
+    "opening_hours": "18:30-22:30（多班次）",
+    "best_time": "全年",
+    "visit_duration": "1小时",
+    "tips": [
+      "建议提前购票选择靠窗位置",
+      "秋冬季节带外套，江风较大",
+      "节假日需提前预订"
+    ],
+    "images": ["https://example.com/pearl-river-1.jpg"],
+    "updated_at": "2026-04-24"
+  }
+]

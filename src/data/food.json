@@ -1,0 +1,117 @@
+[
+  {
+    "id": "food_001",
+    "name": "点都德",
+    "category": "早茶",
+    "subcategory": ["老字号", "茶楼"],
+    "description": "广州老字号茶楼，传承百年制点工艺。以传统广式点心闻名，虾饺、烧卖、叉烧包是必点招牌。",
+    "location": {
+      "address": "广州市荔湾区龙津中路588号（多家分店）",
+      "district": "荔湾区",
+      "latitude": 23.1239,
+      "longitude": 113.2453
+    },
+    "signature_dishes": ["金牌虾饺皇", "蜜汁叉烧包", "金莎红米肠", "百合酱蒸凤爪"],
+    "price_range": "¥60-100/人",
+    "rating": 4.7,
+    "opening_hours": "07:00-21:00",
+    "tips": [
+      "早上8-10点是用茶高峰，建议错峰",
+      "虾饺每日限量，尽早到店",
+      "可用手机点单"
+    ],
+    "updated_at": "2026-04-24"
+  },
+  {
+    "id": "food_002",
+    "name": "陶陶居",
+    "category": "早茶",
+    "subcategory": ["老字号", "茶楼", "历史名店"],
+    "description": "创建于1880年，距今140多年历史，是广州最负盛名的老字号茶楼之一。康有为亲笔题名，鲁迅、巴金等文化名人都曾光顾。",
+    "location": {
+      "address": "广州市荔湾区上下九步行街",
+      "district": "荔湾区",
+      "latitude": 23.1251,
+      "longitude": 113.2434
+    },
+    "signature_dishes": ["陶陶居大虾饺", "冰肉叉烧包", "鸡蛋挞", "糯米鸡"],
+    "price_range": "¥70-120/人",
+    "rating": 4.8,
+    "opening_hours": "07:00-21:30",
+    "tips": [
+      "上下九总店最有历史感",
+      "周末排队严重，建议工作日前往",
+      "尝试传统推车仔点心"
+    ],
+    "updated_at": "2026-04-24"
+  },
+  {
+    "id": "food_003",
+    "name": "银记肠粉",
+    "category": "地道小吃",
+    "subcategory": ["肠粉", "快餐"],
+    "description": "广州肠粉代表，以布拉肠粉闻名。粉皮薄如蝉翼，口感滑嫩，配上特制酱油，是广州人最爱的早餐之一。",
+    "location": {
+      "address": "广州市越秀区文明路68号",
+      "district": "越秀区",
+      "latitude": 23.1292,
+      "longitude": 113.2689
+    },
+    "signature_dishes": ["鲜虾肠粉", "牛肉肠粉", "叉烧肠粉", "斋肠"],
+    "price_range": "¥15-30/人",
+    "rating": 4.6,
+    "opening_hours": "06:30-14:00",
+    "tips": [
+      "只做早午餐，下午关门",
+      "鲜虾肠粉是招牌",
+      "加辣酱更地道"
+    ],
+    "updated_at": "2026-04-24"
+  },
+  {
+    "id": "food_004",
+    "name": "宝华面店",
+    "category": "地道小吃",
+    "subcategory": ["云吞面", "老字号"],
+    "description": "广州云吞面老字号，竹升面弹牙爽口，云吞馅料十足。汤底用大地鱼和虾子熬制，鲜味浓郁。",
+    "location": {
+      "address": "广州市荔湾区宝华路113号",
+      "district": "荔湾区",
+      "latitude": 23.1245,
+      "longitude": 113.2441
+    },
+    "signature_dishes": ["鲜虾云吞面", "牛腩面", "炸云吞", "猪手面"],
+    "price_range": "¥20-40/人",
+    "rating": 4.7,
+    "opening_hours": "07:00-20:00",
+    "tips": [
+      "云吞面要加鲜虾云吞",
+      "炸云吞外酥里嫩必点",
+      "饭点人多，建议错峰"
+    ],
+    "updated_at": "2026-04-24"
+  },
+  {
+    "id": "food_005",
+    "name": "广州酒家",
+    "category": "粤菜正餐",
+    "subcategory": ["老字号", "粤菜"],
+    "description": "创建于1935年，素有'食在广州第一家'的美誉。传统粤菜正宗，文昌鸡、白切鸡是招牌菜。",
+    "location": {
+      "address": "广州市荔湾区文昌南路2号",
+      "district": "荔湾区",
+      "latitude": 23.1256,
+      "longitude": 113.2445
+    },
+    "signature_dishes": ["文昌鸡", "白切鸡", "红烧乳鸽", "虾饺"],
+    "price_range": "¥100-200/人",
+    "rating": 4.8,
+    "opening_hours": "10:00-22:00",
+    "tips": [
+      "文昌鸡需提前预订",
+      "早茶时段性价比更高",
+      "适合家庭聚餐"
+    ],
+    "updated_at": "2026-04-24"
+  }
+]

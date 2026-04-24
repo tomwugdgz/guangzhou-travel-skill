@@ -1,0 +1,112 @@
+[
+  {
+    "id": "transport_001",
+    "name": "广州白云国际机场",
+    "name_en": "Guangzhou Baiyun International Airport",
+    "category": "交通",
+    "subcategory": ["机场", "航空"],
+    "description": "中国三大国际航空枢纽之一，T1和T2两个航站楼，国内外航线齐全。",
+    "description_en": "One of China's top 3 international airport hubs with T1 and T2 terminals.",
+    "location": {
+      "address": "广州市白云区白云机场",
+      "district": "白云区",
+      "latitude": 23.3924,
+      "longitude": 113.2988
+    },
+    "rating": 4.6,
+    "phone": "020-96158",
+    "facilities": ["地铁站", "巴士站", "出租车", "停车场", "餐饮", "购物"],
+    "metro_lines": ["3号线北延段 - 机场南站/机场北站"],
+    "tips": ["T1和T2之间有免费接驳车", "建议提前2小时到达"],
+    "updated_at": "2026-04-24"
+  },
+  {
+    "id": "transport_002",
+    "name": "广州南站",
+    "name_en": "Guangzhou South Railway Station",
+    "category": "交通",
+    "subcategory": ["高铁站", "火车站"],
+    "description": "华南地区最大的高铁站，连接全国高铁网络，客流量大。",
+    "description_en": "The largest high-speed rail station in South China.",
+    "location": {
+      "address": "广州市番禺区石壁街道",
+      "district": "番禺区",
+      "latitude": 22.9897,
+      "longitude": 113.2689
+    },
+    "rating": 4.5,
+    "phone": "12306",
+    "facilities": ["地铁站", "巴士站", "出租车", "停车场", "餐饮"],
+    "metro_lines": ["2号线", "7号线", "22号线"],
+    "tips": ["客流量大，建议提前1小时到达", "站内有餐饮和购物"],
+    "updated_at": "2026-04-24"
+  },
+  {
+    "id": "transport_003",
+    "name": "广州火车站",
+    "name_en": "Guangzhou Railway Station",
+    "category": "交通",
+    "subcategory": ["火车站", "普速列车"],
+    "description": "广州主要火车站之一，主要运营普速列车和部分高铁。",
+    "description_en": "One of Guangzhou's main railway stations for conventional trains.",
+    "location": {
+      "address": "广州市越秀区环市西路",
+      "district": "越秀区",
+      "latitude": 23.1465,
+      "longitude": 113.2585
+    },
+    "rating": 4.3,
+    "phone": "12306",
+    "facilities": ["地铁站", "巴士站", "出租车", "餐饮"],
+    "metro_lines": ["2号线", "5号线 - 广州火车站"],
+    "tips": ["注意区分广州站和广州南站", "节假日客流高峰"],
+    "updated_at": "2026-04-24"
+  },
+  {
+    "id": "transport_004",
+    "name": "广州地铁",
+    "name_en": "Guangzhou Metro",
+    "category": "交通",
+    "subcategory": ["地铁", "公共交通"],
+    "description": "广州地铁网络发达，覆盖全市主要区域，运营时间6:00-23:00。",
+    "description_en": "Extensive metro network covering major areas, operating 6:00-23:00.",
+    "location": {
+      "address": "广州市全域",
+      "district": "全市",
+      "latitude": 23.1292,
+      "longitude": 113.2689
+    },
+    "rating": 4.7,
+    "phone": "020-96891",
+    "facilities": ["无障碍设施", "WiFi", "自动售票机"],
+    "metro_lines": [
+      "1号线（西塱-广州东站）",
+      "2号线（广州南站-嘉禾望岗）",
+      "3号线（天河客运站-番禺广场）",
+      "5号线（滘口-文冲）",
+      "8号线（凤凰新村-万胜围）"
+    ],
+    "tips": ["使用羊城通或乘车码", "避开早晚高峰"],
+    "updated_at": "2026-04-24"
+  },
+  {
+    "id": "transport_005",
+    "name": "广州公交",
+    "name_en": "Guangzhou Bus",
+    "category": "交通",
+    "subcategory": ["公交", "公共交通"],
+    "description": "广州公交线路密集，覆盖全市，票价2-3元，支持扫码乘车。",
+    "description_en": "Dense bus network covering the city, 2-3 RMB fare.",
+    "location": {
+      "address": "广州市全域",
+      "district": "全市",
+      "latitude": 23.1292,
+      "longitude": 113.2689
+    },
+    "rating": 4.4,
+    "phone": "020-96900",
+    "facilities": ["空调车", "扫码支付", "实时公交查询"],
+    "tips": ["使用广州地铁APP查询实时公交", "高峰期较拥挤"],
+    "updated_at": "2026-04-24"
+  }
+]
