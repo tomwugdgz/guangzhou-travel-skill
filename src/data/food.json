@@ -313,5 +313,134 @@
     "opening_hours": "11:00-22:00",
     "tips": ["越秀区分店，交通便利"],
     "updated_at": "2026-04-24"
+  },
+  {
+    "id": "food_016",
+    "name": "珠光小食",
+    "name_en": "Zhuguang Snack Shop",
+    "category": "小吃",
+    "subcategory": ["老字号", "牛杂", "八旗二马路小学周边", "街坊店"],
+    "description": "就在八旗二马路50号，是学校附近的老字号小吃店，店面很有年代感。主打软烂入味的牛杂，还有广式绿豆沙、猪红汤、猪脚姜，放学饿了可以买一份边走边吃，料足又便宜。",
+    "description_en": "Time-honored snack shop near Baqi Er Malu Primary School, famous for beef offal.",
+    "location": {
+      "address": "广州市越秀区八旗二马路50号",
+      "district": "越秀区",
+      "latitude": 23.1180,
+      "longitude": 113.2760
+    },
+    "signature_dishes": ["牛杂", "广式绿豆沙", "猪红汤", "猪脚姜"],
+    "price_range": "¥10-20/人",
+    "rating": 4.6,
+    "opening_hours": "10:00-20:00",
+    "tips": ["放学饿了可以买一份边走边吃", "料足又便宜", "店面很有年代感"],
+    "updated_at": "2026-04-24"
+  },
+  {
+    "id": "food_017",
+    "name": "宴师傅全球便捷正餐（八旗二马路店）",
+    "name_en": "Yan Shifu Convenient Meal (Baqi Er Malu Branch)",
+    "category": "快餐",
+    "subcategory": ["平价", "24小时", "八旗二马路小学周边", "性价比"],
+    "description": "人均只要20块，性价比超高，5块钱的青菜份量特别足。营业时间是24小时，早上赶上学或者放学晚了都能吃到热乎的饭菜。坐地铁6号线团一大广场站走500米就到。",
+    "description_en": "24-hour affordable restaurant, only ¥20 per person.",
+    "location": {
+      "address": "广州市越秀区八旗二马路",
+      "district": "越秀区",
+      "latitude": 23.1185,
+      "longitude": 113.2765,
+      "metro": "6号线 - 团一大广场站（500米）"
+    },
+    "signature_dishes": ["青菜（¥5）", "家常套餐", "热炒"],
+    "price_range": "¥15-25/人",
+    "rating": 4.4,
+    "opening_hours": "24小时",
+    "tips": ["24小时营业", "早上赶上学或放学晚了都能吃到", "5块钱青菜份量足"],
+    "updated_at": "2026-04-24"
+  },
+  {
+    "id": "food_018",
+    "name": "超记煲仔饭",
+    "name_en": "Chaoji Claypot Rice",
+    "category": "小吃",
+    "subcategory": ["煲仔饭", "老字号", "30年老店", "八旗二马路小学周边"],
+    "description": "在珠光路188号，开了30多年的老字号，几乎款款都不踩雷。必点窝蛋牛肉饭，戳开蛋液和米饭拌在一起，软润咸香，牛肉也嫩滑不老，放学和同学拼桌吃一份超满足。",
+    "description_en": "30-year-old claypot rice shop, famous for beef and egg claypot rice.",
+    "location": {
+      "address": "广州市越秀区珠光路188号",
+      "district": "越秀区",
+      "latitude": 23.1175,
+      "longitude": 113.2755
+    },
+    "signature_dishes": ["窝蛋牛肉饭", "腊味煲仔饭", "黄鳝煲仔饭"],
+    "price_range": "¥20-35/人",
+    "rating": 4.7,
+    "opening_hours": "11:00-21:00",
+    "tips": ["窝蛋牛肉饭必点", "放学和同学拼桌吃", "几乎款款不踩雷"],
+    "updated_at": "2026-04-24"
+  },
+  {
+    "id": "food_019",
+    "name": "赞记龙凤礼饼",
+    "name_en": "Zanji Dragon Phoenix Pastry",
+    "category": "小吃",
+    "subcategory": ["饼店", "老字号", "1909年始创", "八旗二马路小学周边"],
+    "description": "在文德南路62号珠光市场一楼，1909年就创立的老饼店，卖传统广式点心。嫁女饼、老婆饼、鸡仔饼都有，推荐花生酥，酥香浓郁还能吃到花生颗粒，放学路过买两块当小零食刚好。",
+    "description_en": "Pastry shop established in 1909, selling traditional Cantonese pastries.",
+    "location": {
+      "address": "广州市越秀区文德南路62号珠光市场一楼",
+      "district": "越秀区",
+      "latitude": 23.1170,
+      "longitude": 113.2750
+    },
+    "signature_dishes": ["花生酥", "嫁女饼", "老婆饼", "鸡仔饼"],
+    "price_range": "¥10-30/人",
+    "rating": 4.6,
+    "opening_hours": "08:00-20:00",
+    "tips": ["花生酥酥香浓郁", "放学路过买两块当小零食", "1909年创立的百年老店"],
+    "updated_at": "2026-04-24"
+  },
+  {
+    "id": "food_020",
+    "name": "万兴煲仔饭",
+    "name_en": "Wanxing Claypot Rice",
+    "category": "小吃",
+    "subcategory": ["煲仔饭", "街坊店", "宝藏小店", "八旗二马路小学周边"],
+    "description": "藏在老城区的"宝藏小店"，不是网红店，全靠街坊口碑开了几十年，离八旗二马路小学超近，步行几分钟就能到。牛肉窝蛋饭特别嫩滑，上桌打一颗生鸡蛋，趁热把蛋液和米饭、酱油拌在一起，每一粒米饭都裹着蛋香和肉香。",
+    "description_en": "Hidden gem claypot rice shop near the school, loved by locals for decades.",
+    "location": {
+      "address": "广州市越秀区万福路289号（近文德路）",
+      "district": "越秀区",
+      "latitude": 23.1195,
+      "longitude": 113.2745,
+      "metro": "6号线 - 北京路站B口（2分钟）"
+    },
+    "signature_dishes": ["牛肉窝蛋饭（¥24）", "猪红汤（¥10）", "猪肝汤（¥10）", "腊味饭", "黄鳝饭"],
+    "price_range": "¥20-35/人",
+    "rating": 4.8,
+    "opening_hours": "11:00-15:00, 17:30-21:00",
+    "tips": ["下午2点半到5点半休息，别跑空", "饭点人多可能需拼桌", "喜欢吃锅巴跟老板说"要脆底""],
+    "updated_at": "2026-04-24"
+  },
+  {
+    "id": "food_021",
+    "name": "好彩煲仔饭（北京路总店）",
+    "name_en": "Haocai Claypot Rice (Beijing Road Main Branch)",
+    "category": "小吃",
+    "subcategory": ["煲仔饭", "老字号", "40年老店", "八旗二马路小学周边"],
+    "description": "开了40多年的"广州煲仔饭代表"，最早是裁缝师傅开的，现在已经是几代人的回忆，最火的时候一天能卖1000煲。酱油是独家调制的，老抽和生抽按1:6的比例调的，鲜香味更浓。",
+    "description_en": "40-year-old claypot rice legend, once sold 1000 pots per day.",
+    "location": {
+      "address": "广州市越秀区北京南路44号",
+      "district": "越秀区",
+      "latitude": 23.1155,
+      "longitude": 113.2715,
+      "metro": "6号线 - 北京路站A口"
+    },
+    "signature_dishes": ["窝蛋牛肉饭", "腊味煲仔饭", "海皇鲍鱼煲仔饭（东川路店）", "鱼腩煲仔粥"],
+    "price_range": "¥25-40/人",
+    "rating": 4.8,
+    "opening_hours": "10:00-02:00（总店）, 10:00-21:00（东川路店）",
+    "tips": ["总店开到凌晨2点，可吃夜宵", "5块钱可买一大碗老火靓汤", "东川路店才有海皇鲍鱼煲仔饭"],
+    "updated_at": "2026-04-24"
   }
 ]

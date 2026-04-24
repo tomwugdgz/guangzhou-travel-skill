@@ -190,5 +190,101 @@
     "tips": ["骑楼建筑拍照好看", "陶陶居总店在这里", "小吃种类丰富"],
     "images": ["https://example.com/shangxiajiu-1.jpg"],
     "updated_at": "2026-04-24"
+  },
+  {
+    "id": "attraction_009",
+    "name": "八旗博物馆",
+    "name_en": "Eight Banners Museum",
+    "category": "历史人文",
+    "subcategory": ["博物馆", "满族文化", "免费", "八旗二马路小学周边"],
+    "description": "位于德政南路上，是了解广州满族历史和八旗文化的好地方。能看到清代八旗人的生活痕迹，免费开放，很适合涨知识，还能当课外实践的好去处。",
+    "description_en": "Museum showcasing Manchu history and Eight Banners culture in Guangzhou.",
+    "location": {
+      "address": "广州市越秀区德政南路",
+      "district": "越秀区",
+      "latitude": 23.1185,
+      "longitude": 113.2765,
+      "metro": "6号线 - 团一大广场站"
+    },
+    "rating": 4.5,
+    "ticket_price": "免费",
+    "opening_hours": "09:00-17:00",
+    "best_time": "全年，适合课外实践",
+    "visit_duration": "1小时",
+    "tips": ["免费开放", "适合课外实践", "了解清代八旗文化"],
+    "images": ["https://example.com/baqi-museum-1.jpg"],
+    "updated_at": "2026-04-24"
+  },
+  {
+    "id": "attraction_010",
+    "name": "珠光路老街",
+    "name_en": "Zhuguang Road Old Street",
+    "category": "历史人文",
+    "subcategory": ["老街", "市井生活", "免费", "八旗二马路小学周边"],
+    "description": "离八旗二马路小学超近的一条500多米老街，没有网红店的喧闹，全是老广的生活气息。残旧的骑楼、开了40多年的珠光市场，能买到新鲜的海鲜蔬菜，放学路过还能看到街坊坐在门口叹茶、小猫趴在路边晒太阳，慢悠悠的特别舒服。",
+    "description_en": "A 500-meter old street with authentic local life atmosphere.",
+    "location": {
+      "address": "广州市越秀区珠光路",
+      "district": "越秀区",
+      "latitude": 23.1175,
+      "longitude": 113.2755,
+      "metro": "6号线 - 团一大广场站"
+    },
+    "rating": 4.6,
+    "ticket_price": "免费",
+    "opening_hours": "全天",
+    "best_time": "下午放学时段，感受老广生活",
+    "visit_duration": "30分钟-1小时",
+    "tips": ["感受老广生活气息", "珠光市场可买新鲜海鲜蔬菜", "适合散步拍照"],
+    "images": ["https://example.com/zhuguang-street-1.jpg"],
+    "updated_at": "2026-04-24"
+  },
+  {
+    "id": "attraction_011",
+    "name": "天字码头+珠江边",
+    "name_en": "Tianzi Pier + Pearl River Waterfront",
+    "category": "观光体验",
+    "subcategory": ["江景", "历史", "免费", "八旗二马路小学周边"],
+    "description": "从八旗二马路小学走到天字码头只要几分钟，这里是以前官员从水路到广州的上岸点。现在可以看珠江边的风景，傍晚还能吹江风，运气好能看到珠江夜游的游船驶过，灯光超漂亮。",
+    "description_en": "Historic pier where officials once arrived by water, now a scenic waterfront spot.",
+    "location": {
+      "address": "广州市越秀区沿江中路",
+      "district": "越秀区",
+      "latitude": 23.1145,
+      "longitude": 113.2735,
+      "metro": "6号线 - 北京路站"
+    },
+    "rating": 4.7,
+    "ticket_price": "免费",
+    "opening_hours": "全天",
+    "best_time": "傍晚时分，可看日落和夜景",
+    "visit_duration": "30分钟-1小时",
+    "tips": ["傍晚吹江风很舒服", "可看珠江夜游游船", "历史悠久的上岸点"],
+    "images": ["https://example.com/tianzi-pier-1.jpg"],
+    "updated_at": "2026-04-24"
+  },
+  {
+    "id": "attraction_012",
+    "name": "八旗二马路",
+    "name_en": "Baqi Er Malu (Eight Banners 2nd Road)",
+    "category": "历史人文",
+    "subcategory": ["历史街道", "地名保护", "免费", "八旗二马路小学周边"],
+    "description": "这条600米长的马路本身就是历史见证，名字来自清代驻粤八旗兵的活动历史。路边藏着很多老广州小吃店，走一圈就能感受到老城区的烟火气，2023年还入选了广州第一批地名保护名录。",
+    "description_en": "A 600-meter historic road named after Qing Dynasty Eight Banners soldiers, listed in Guangzhou's place name protection名录.",
+    "location": {
+      "address": "广州市越秀区八旗二马路",
+      "district": "越秀区",
+      "latitude": 23.1180,
+      "longitude": 113.2760,
+      "metro": "6号线 - 团一大广场站"
+    },
+    "rating": 4.5,
+    "ticket_price": "免费",
+    "opening_hours": "全天",
+    "best_time": "全年，放学后可漫步",
+    "visit_duration": "30分钟-1小时",
+    "tips": ["2023年入选广州地名保护名录", "路边有很多老广州小吃", "感受老城区烟火气"],
+    "images": ["https://example.com/baqi-road-1.jpg"],
+    "updated_at": "2026-04-24"
   }
 ]
