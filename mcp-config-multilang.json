@@ -5,8 +5,7 @@
       "args": ["src/mcp/server.js"],
       "env": {
         "LANG": "zh",
-        "SKILL_NAME": "guangzhou-travel",
-        "TENCENT_MAP_KEY": "7HKBZ-HQBEM-XS56X-6DBAT-ITXUZ-IDFNG"
+        "SKILL_NAME": "guangzhou-travel"
       },
       "disabled": false
     },
@@ -15,8 +14,7 @@
       "args": ["src/mcp/server.js"],
       "env": {
         "LANG": "en",
-        "SKILL_NAME": "guangzhou-travel",
-        "TENCENT_MAP_KEY": "7HKBZ-HQBEM-XS56X-6DBAT-ITXUZ-IDFNG"
+        "SKILL_NAME": "guangzhou-travel"
       },
       "disabled": false
     },
@@ -25,8 +23,7 @@
       "args": ["src/mcp/server.js"],
       "env": {
         "LANG": "fr",
-        "SKILL_NAME": "guangzhou-travel",
-        "TENCENT_MAP_KEY": "7HKBZ-HQBEM-XS56X-6DBAT-ITXUZ-IDFNG"
+        "SKILL_NAME": "guangzhou-travel"
       },
       "disabled": false
     },
@@ -35,8 +32,7 @@
       "args": ["src/mcp/server.js"],
       "env": {
         "LANG": "ru",
-        "SKILL_NAME": "guangzhou-travel",
-        "TENCENT_MAP_KEY": "7HKBZ-HQBEM-XS56X-6DBAT-ITXUZ-IDFNG"
+        "SKILL_NAME": "guangzhou-travel"
       },
       "disabled": false
     },
@@ -45,8 +41,7 @@
       "args": ["src/mcp/server.js"],
       "env": {
         "LANG": "es",
-        "SKILL_NAME": "guangzhou-travel",
-        "TENCENT_MAP_KEY": "7HKBZ-HQBEM-XS56X-6DBAT-ITXUZ-IDFNG"
+        "SKILL_NAME": "guangzhou-travel"
       },
       "disabled": false
     },
@@ -55,8 +50,7 @@
       "args": ["src/mcp/server.js"],
       "env": {
         "LANG": "ar",
-        "SKILL_NAME": "guangzhou-travel",
-        "TENCENT_MAP_KEY": "7HKBZ-HQBEM-XS56X-6DBAT-ITXUZ-IDFNG"
+        "SKILL_NAME": "guangzhou-travel"
       },
       "disabled": false
     }

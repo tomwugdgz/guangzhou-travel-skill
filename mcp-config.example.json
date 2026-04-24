@@ -5,7 +5,7 @@
       "args": ["src/mcp/server.js"],
       "env": {
         "SKILL_NAME": "guangzhou-travel",
-        "DATA_DIR": "src/data"
+        "LANG": "zh"
       },
       "disabled": false
     }

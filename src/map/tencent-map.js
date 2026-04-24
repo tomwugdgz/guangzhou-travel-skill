@@ -5,9 +5,15 @@
 
 const https = require("https");
 
-// 腾讯地图 API Key
-const TENCENT_MAP_KEY = process.env.TENCENT_MAP_KEY || "7HKBZ-HQBEM-XS56X-6DBAT-ITXUZ-IDFNG";
+// 腾讯地图 API Key（从环境变量读取，不硬编码）
+const TENCENT_MAP_KEY = process.env.TENCENT_MAP_KEY;
 const BASE_URL = "https://apis.map.qq.com";
+
+// 检查 API Key 是否配置
+if (!TENCENT_MAP_KEY) {
+  console.warn("⚠️  警告：未配置 TENCENT_MAP_KEY 环境变量");
+  console.warn("   请在 .env 文件或 MCP 配置中设置腾讯地图 API Key");
+}
 
 /**
  * 发起 HTTP 请求
