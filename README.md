@@ -33,6 +33,7 @@
 - **版本**: v0.2.0 (多语言版)
 - **作者**: Tom & 胡允谦
 - **创建日期**: 2026-04-24
+- **网页**：http://duckwolf.cn
 - **GitHub**: https://github.com/tomwugdgz/guangzhou-travel-skill
 - **许可协议**: MIT
 - **支持语言**: 🇨🇳 中文 | 🇺🇸 English | 🇫🇷 Français | 🇷🇺 Русский | 🇪🇸 Español | 🇸🇦 العربية
