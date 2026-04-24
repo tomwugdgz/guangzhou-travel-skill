@@ -2,9 +2,11 @@
   {
     "id": "food_001",
     "name": "点都德",
+    "name_en": "Diandoude",
     "category": "早茶",
-    "subcategory": ["老字号", "茶楼"],
+    "subcategory": ["老字号", "茶楼", "连锁"],
     "description": "广州老字号茶楼，传承百年制点工艺。以传统广式点心闻名，虾饺、烧卖、叉烧包是必点招牌。",
+    "description_en": "Time-honored Guangzhou teahouse known for traditional dim sum.",
     "location": {
       "address": "广州市荔湾区龙津中路588号（多家分店）",
       "district": "荔湾区",
@@ -15,42 +17,227 @@
     "price_range": "¥60-100/人",
     "rating": 4.7,
     "opening_hours": "07:00-21:00",
-    "tips": [
-      "早上8-10点是用茶高峰，建议错峰",
-      "虾饺每日限量，尽早到店",
-      "可用手机点单"
-    ],
+    "tips": ["早上8-10点是用茶高峰，建议错峰", "虾饺每日限量，尽早到店"],
     "updated_at": "2026-04-24"
   },
   {
     "id": "food_002",
-    "name": "陶陶居",
+    "name": "陶陶居（第十甫路总店）",
+    "name_en": "Taotaoju (Shiyifu Road Main Branch)",
     "category": "早茶",
-    "subcategory": ["老字号", "茶楼", "历史名店"],
-    "description": "创建于1880年，距今140多年历史，是广州最负盛名的老字号茶楼之一。康有为亲笔题名，鲁迅、巴金等文化名人都曾光顾。",
+    "subcategory": ["老字号", "茶楼", "历史名店", "中华老字号"],
+    "description": "清代光绪年间开业的中华老字号，西关茶楼风情浓厚，平价亲民。上下九骑楼建筑内，招牌点心有陶陶居大虾饺、锦绣海鲜红米肠、卡珍芝士糯米鸡。",
+    "description_en": "Time-honored brand since Qing Dynasty, traditional Xiguan teahouse style.",
     "location": {
-      "address": "广州市荔湾区上下九步行街",
+      "address": "广州市荔湾区第十甫路20号（上下九骑楼建筑）",
       "district": "荔湾区",
       "latitude": 23.1251,
       "longitude": 113.2434
     },
-    "signature_dishes": ["陶陶居大虾饺", "冰肉叉烧包", "鸡蛋挞", "糯米鸡"],
+    "signature_dishes": ["陶陶居大虾饺", "锦绣海鲜红米肠", "卡珍芝士糯米鸡", "白切鸡", "冰镇咕咾肉"],
     "price_range": "¥70-120/人",
     "rating": 4.8,
     "opening_hours": "07:00-21:30",
-    "tips": [
-      "上下九总店最有历史感",
-      "周末排队严重，建议工作日前往",
-      "尝试传统推车仔点心"
-    ],
+    "tips": ["上下九总店最有历史感", "周末排队严重，建议工作日前往"],
     "updated_at": "2026-04-24"
   },
   {
     "id": "food_003",
+    "name": "广州酒家（文昌路店）",
+    "name_en": "Guangzhou Restaurant (Wenchang Road)",
+    "category": "粤菜",
+    "subcategory": ["老字号", "粤菜", "米其林", "黑珍珠"],
+    "description": "有'食在广州第一家'的美誉，是老广每周雷打不动叹茶的首选。传统粤式年夜饭、点心出品稳定，招牌菜包括有米猪、爽皮鸡、桂花鱼。",
+    "description_en": "Known as 'The First Restaurant in Guangzhou', traditional Cantonese cuisine.",
+    "location": {
+      "address": "广州市荔湾区文昌路2号",
+      "district": "荔湾区",
+      "latitude": 23.1256,
+      "longitude": 113.2445
+    },
+    "signature_dishes": ["有米猪", "爽皮鸡", "桂花鱼", "龙腾虎跃豆茸酸奶糕"],
+    "price_range": "¥100-200/人",
+    "rating": 4.8,
+    "opening_hours": "10:00-22:00",
+    "tips": ["文昌鸡需提前预订", "早茶时段性价比更高"],
+    "updated_at": "2026-04-24"
+  },
+  {
+    "id": "food_004",
+    "name": "玉堂春暖餐厅",
+    "name_en": "Yutang Chunnuan Restaurant",
+    "category": "粤菜",
+    "subcategory": ["米其林一星", "黑珍珠三钻", "高端", "宴请"],
+    "description": "广州唯一同时持有米其林一星+黑珍珠三钻的餐厅，岭南园林风格装潢。招牌菜有白切葵花鸡、伊比利亚黑毛猪叉烧、香茅焗乳鸽、榄仁萨其马。",
+    "description_en": "The only restaurant in Guangzhou with both Michelin 1-star and Black Pearl 3-diamond.",
+    "location": {
+      "address": "广州市荔湾区沙面南街1号白天鹅宾馆3楼",
+      "district": "荔湾区",
+      "latitude": 23.1065,
+      "longitude": 113.2445
+    },
+    "signature_dishes": ["白切葵花鸡", "伊比利亚黑毛猪叉烧", "香茅焗乳鸽", "榄仁萨其马"],
+    "price_range": "¥300-500/人",
+    "rating": 4.9,
+    "opening_hours": "11:00-14:30, 17:30-22:00",
+    "tips": ["非住宿客人需现场取号", "包厢需提前预订", "早茶和正餐都值得体验"],
+    "updated_at": "2026-04-24"
+  },
+  {
+    "id": "food_005",
+    "name": "北园酒家",
+    "name_en": "Beiyuan Restaurant",
+    "category": "粤菜",
+    "subcategory": ["园林式", "酒家", "家庭聚餐"],
+    "description": "广州三大园林酒家之一，有'食饭去北园，饮茶到泮溪'的民谚。青砖绿瓦、小桥流水，环境清幽适合家庭聚餐。",
+    "description_en": "One of Guangzhou's three garden-style restaurants.",
+    "location": {
+      "address": "广州市越秀区小北路202号（近越秀公园）",
+      "district": "越秀区",
+      "latitude": 23.1372,
+      "longitude": 113.2644
+    },
+    "signature_dishes": ["广式烧味", "鱼蓉羹", "红米肠"],
+    "price_range": "¥100-180/人",
+    "rating": 4.7,
+    "opening_hours": "10:00-22:00",
+    "tips": ["环境清幽适合家庭聚餐", "建议提前预订"],
+    "updated_at": "2026-04-24"
+  },
+  {
+    "id": "food_006",
+    "name": "南园酒家",
+    "name_en": "Nanyuan Restaurant",
+    "category": "粤菜",
+    "subcategory": ["园林式", "酒家", "米其林必比登", "家庭聚餐"],
+    "description": "广州三大园林酒家之一，2024年米其林必比登推介餐厅。占地超1万平，竹林婆娑，出品以粤菜为主融合潮州菜特色。",
+    "description_en": "2024 Michelin Bib Gourmand, garden-style restaurant with bamboo groves.",
+    "location": {
+      "address": "广州市海珠区前进路142号",
+      "district": "海珠区",
+      "latitude": 23.0985,
+      "longitude": 113.2745
+    },
+    "signature_dishes": ["金牌乳猪", "红烧乳鸽", "南园头抽牛柳"],
+    "price_range": "¥120-200/人",
+    "rating": 4.8,
+    "opening_hours": "10:00-22:00",
+    "tips": ["2024年米其林必比登推介", "早茶点心也很出众"],
+    "updated_at": "2026-04-24"
+  },
+  {
+    "id": "food_007",
+    "name": "泮溪酒家",
+    "name_en": "Panxi Restaurant",
+    "category": "粤菜",
+    "subcategory": ["园林式", "酒家", "建筑遗产", "水乡风情"],
+    "description": "全国最大的园林式酒家，入选首批中国20世纪建筑遗产。临水茶座可以边吃艇仔粥边看荔枝湾画舫，体验老广州水乡风情。",
+    "description_en": "China's largest garden-style restaurant, 20th century architectural heritage.",
+    "location": {
+      "address": "广州市荔湾区龙津西路151号（近荔枝湾涌）",
+      "district": "荔湾区",
+      "latitude": 23.1215,
+      "longitude": 113.2385
+    },
+    "signature_dishes": ["鸡仔饼", "马蹄糕", "艇仔粥"],
+    "price_range": "¥100-180/人",
+    "rating": 4.7,
+    "opening_hours": "10:00-22:00",
+    "tips": ["临水茶座看荔枝湾画舫", "体验老广州水乡风情"],
+    "updated_at": "2026-04-24"
+  },
+  {
+    "id": "food_008",
+    "name": "陈添记（十五甫三巷店）",
+    "name_en": "Chentianji (Shiwu Sanxiang Branch)",
+    "category": "小吃",
+    "subcategory": ["老字号", "西关小吃", "30年老店"],
+    "description": "30多年老字号，只卖三样：祖传爽鱼皮、豉油王蒸猪肠粉、传统西关艇仔粥。鱼皮爽滑无腥味，是西关小吃代表。",
+    "description_en": "30-year-old brand, famous for fish skin and rice noodle rolls.",
+    "location": {
+      "address": "广州市荔湾区上下九十五甫三巷内",
+      "district": "荔湾区",
+      "latitude": 23.1245,
+      "longitude": 113.2441
+    },
+    "signature_dishes": ["祖传爽鱼皮", "豉油王蒸猪肠粉", "传统西关艇仔粥"],
+    "price_range": "¥20-40/人",
+    "rating": 4.6,
+    "opening_hours": "10:00-18:00",
+    "tips": ["只卖三样但样样经典", "鱼皮爽滑无腥味"],
+    "updated_at": "2026-04-24"
+  },
+  {
+    "id": "food_009",
+    "name": "南信牛奶甜品专家",
+    "name_en": "Nanxin Milk Dessert Expert",
+    "category": "甜品",
+    "subcategory": ["糖水", "双皮奶", "老字号"],
+    "description": "广州双皮奶天花板，用水牛奶制作，奶香浓郁，上层甘香下层柔滑。夏天推荐芒果双皮奶，冬天可以试试姜撞奶。",
+    "description_en": "The best double-skin milk in Guangzhou, made with buffalo milk.",
+    "location": {
+      "address": "广州市荔湾区第十甫路47号",
+      "district": "荔湾区",
+      "latitude": 23.1251,
+      "longitude": 113.2438
+    },
+    "signature_dishes": ["双皮奶", "芒果双皮奶", "姜撞奶"],
+    "price_range": "¥15-30/人",
+    "rating": 4.8,
+    "opening_hours": "10:00-22:00",
+    "tips": ["夏天推荐芒果双皮奶", "冬天试试姜撞奶"],
+    "updated_at": "2026-04-24"
+  },
+  {
+    "id": "food_010",
+    "name": "惠食佳（滨江店）",
+    "name_en": "Huishijia (Binjiang Branch)",
+    "category": "粤菜",
+    "subcategory": ["啫啫煲", "老牌", "大排档"],
+    "description": "数十年老牌啫啫煲专门店，猛火瓦煲烹制食材发出'嗞嗞'声。招牌啫啫蚝烙、啫啫黄鳝、啫走地鸡镬气十足。",
+    "description_en": "Decades-old sizzling clay pot specialty restaurant.",
+    "location": {
+      "address": "广州市海珠区滨江西路172号",
+      "district": "海珠区",
+      "latitude": 23.1085,
+      "longitude": 113.2685
+    },
+    "signature_dishes": ["啫啫蚝烙", "啫啫黄鳝", "啫走地鸡", "姜撞奶雪糕"],
+    "price_range": "¥80-150/人",
+    "rating": 4.7,
+    "opening_hours": "11:00-22:00",
+    "tips": ["镬气十足", "创意姜撞奶雪糕值得尝试"],
+    "updated_at": "2026-04-24"
+  },
+  {
+    "id": "food_011",
+    "name": "宝华面店",
+    "name_en": "Baohua Noodle Shop",
+    "category": "小吃",
+    "subcategory": ["竹升面", "老字号", "云吞面"],
+    "description": "老字号竹升面店，大地鱼汤底鲜甜。招牌金牌猪手面、鲜虾云吞面是经典，面条爽脆弹牙，是体验广府面食的首选。",
+    "description_en": "Time-honored bamboo-pressed noodle shop with fresh fish soup base.",
+    "location": {
+      "address": "广州市荔湾区宝华路117号（近恒宝广场）",
+      "district": "荔湾区",
+      "latitude": 23.1245,
+      "longitude": 113.2441
+    },
+    "signature_dishes": ["金牌猪手面", "鲜虾云吞面"],
+    "price_range": "¥20-40/人",
+    "rating": 4.7,
+    "opening_hours": "07:00-20:00",
+    "tips": ["云吞面要加鲜虾云吞", "炸云吞外酥里嫩必点"],
+    "updated_at": "2026-04-24"
+  },
+  {
+    "id": "food_012",
     "name": "银记肠粉",
-    "category": "地道小吃",
-    "subcategory": ["肠粉", "快餐"],
+    "name_en": "Yinji Rice Noodle Roll",
+    "category": "小吃",
+    "subcategory": ["肠粉", "快餐", "老字号"],
     "description": "广州肠粉代表，以布拉肠粉闻名。粉皮薄如蝉翼，口感滑嫩，配上特制酱油，是广州人最爱的早餐之一。",
+    "description_en": "Guangzhou's representative rice noodle roll shop.",
     "location": {
       "address": "广州市越秀区文明路68号",
       "district": "越秀区",
@@ -61,57 +248,70 @@
     "price_range": "¥15-30/人",
     "rating": 4.6,
     "opening_hours": "06:30-14:00",
-    "tips": [
-      "只做早午餐，下午关门",
-      "鲜虾肠粉是招牌",
-      "加辣酱更地道"
-    ],
+    "tips": ["只做早午餐，下午关门", "鲜虾肠粉是招牌"],
     "updated_at": "2026-04-24"
   },
   {
-    "id": "food_004",
-    "name": "宝华面店",
-    "category": "地道小吃",
-    "subcategory": ["云吞面", "老字号"],
-    "description": "广州云吞面老字号，竹升面弹牙爽口，云吞馅料十足。汤底用大地鱼和虾子熬制，鲜味浓郁。",
+    "id": "food_013",
+    "name": "百花甜品店",
+    "name_en": "Baihua Dessert Shop",
+    "category": "甜品",
+    "subcategory": ["糖水", "老字号", "1986年始创"],
+    "description": "1986年始创的老牌糖水店，菜单有上百款甜品。招牌杏仁豆腐用杏仁磨汁凝结而成，口感类似布丁。",
+    "description_en": "Established in 1986, over 100 dessert varieties on menu.",
     "location": {
-      "address": "广州市荔湾区宝华路113号",
-      "district": "荔湾区",
-      "latitude": 23.1245,
-      "longitude": 113.2441
+      "address": "广州市越秀区文明路210号（近中山图书馆）",
+      "district": "越秀区",
+      "latitude": 23.1292,
+      "longitude": 113.2705
     },
-    "signature_dishes": ["鲜虾云吞面", "牛腩面", "炸云吞", "猪手面"],
-    "price_range": "¥20-40/人",
+    "signature_dishes": ["杏仁豆腐", "红豆沙", "芋头西米露"],
+    "price_range": "¥15-30/人",
+    "rating": 4.6,
+    "opening_hours": "10:00-22:30",
+    "tips": ["菜单有上百款甜品", "杏仁豆腐口感类似布丁"],
+    "updated_at": "2026-04-24"
+  },
+  {
+    "id": "food_014",
+    "name": "玫瑰甜品",
+    "name_en": "Rose Dessert",
+    "category": "甜品",
+    "subcategory": ["糖水", "杨枝甘露", "人气店"],
+    "description": "藏在文明路的小铺，招牌杨枝甘露雪花冰绵密细腻，芒果味浓郁，料足不腻，是广州糖水一条街的人气店。",
+    "description_en": "Popular dessert shop on Wenming Road, famous for mango sago.",
+    "location": {
+      "address": "广州市越秀区文明路218号（近中山图书馆）",
+      "district": "越秀区",
+      "latitude": 23.1292,
+      "longitude": 113.2708
+    },
+    "signature_dishes": ["杨枝甘露雪花冰", "芒果双皮奶"],
+    "price_range": "¥20-35/人",
     "rating": 4.7,
-    "opening_hours": "07:00-20:00",
-    "tips": [
-      "云吞面要加鲜虾云吞",
-      "炸云吞外酥里嫩必点",
-      "饭点人多，建议错峰"
-    ],
+    "opening_hours": "11:00-22:00",
+    "tips": ["杨枝甘露雪花冰绵密细腻", "料足不腻"],
     "updated_at": "2026-04-24"
   },
   {
-    "id": "food_005",
-    "name": "广州酒家",
-    "category": "粤菜正餐",
-    "subcategory": ["老字号", "粤菜"],
-    "description": "创建于1935年，素有'食在广州第一家'的美誉。传统粤菜正宗，文昌鸡、白切鸡是招牌菜。",
+    "id": "food_015",
+    "name": "惠食佳（东风店）",
+    "name_en": "Huishijia (Dongfeng Branch)",
+    "category": "粤菜",
+    "subcategory": ["啫啫煲", "老牌", "越秀区"],
+    "description": "惠食佳东风分店，数十年老牌啫啫煲专门店，猛火瓦煲烹制，镬气十足。",
+    "description_en": "Dongfeng branch of Huishijia, decades-old sizzling clay pot specialty.",
     "location": {
-      "address": "广州市荔湾区文昌南路2号",
-      "district": "荔湾区",
-      "latitude": 23.1256,
-      "longitude": 113.2445
+      "address": "广州市越秀区东风东路760号",
+      "district": "越秀区",
+      "latitude": 23.1352,
+      "longitude": 113.2845
     },
-    "signature_dishes": ["文昌鸡", "白切鸡", "红烧乳鸽", "虾饺"],
-    "price_range": "¥100-200/人",
-    "rating": 4.8,
-    "opening_hours": "10:00-22:00",
-    "tips": [
-      "文昌鸡需提前预订",
-      "早茶时段性价比更高",
-      "适合家庭聚餐"
-    ],
+    "signature_dishes": ["啫啫蚝烙", "啫啫黄鳝", "啫走地鸡"],
+    "price_range": "¥80-150/人",
+    "rating": 4.7,
+    "opening_hours": "11:00-22:00",
+    "tips": ["越秀区分店，交通便利"],
     "updated_at": "2026-04-24"
   }
 ]
