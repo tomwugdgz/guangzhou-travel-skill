@@ -405,7 +405,7 @@
     "name_en": "Wanxing Claypot Rice",
     "category": "小吃",
     "subcategory": ["煲仔饭", "街坊店", "宝藏小店", "八旗二马路小学周边"],
-    "description": "藏在老城区的"宝藏小店"，不是网红店，全靠街坊口碑开了几十年，离八旗二马路小学超近，步行几分钟就能到。牛肉窝蛋饭特别嫩滑，上桌打一颗生鸡蛋，趁热把蛋液和米饭、酱油拌在一起，每一粒米饭都裹着蛋香和肉香。",
+    "description": "藏在老城区的宝藏小店，不是网红店，全靠街坊口碑开了几十年，离八旗二马路小学超近，步行几分钟就能到。牛肉窝蛋饭特别嫩滑，上桌打一颗生鸡蛋，趁热把蛋液和米饭、酱油拌在一起，每一粒米饭都裹着蛋香和肉香。",
     "description_en": "Hidden gem claypot rice shop near the school, loved by locals for decades.",
     "location": {
       "address": "广州市越秀区万福路289号（近文德路）",
@@ -418,7 +418,7 @@
     "price_range": "¥20-35/人",
     "rating": 4.8,
     "opening_hours": "11:00-15:00, 17:30-21:00",
-    "tips": ["下午2点半到5点半休息，别跑空", "饭点人多可能需拼桌", "喜欢吃锅巴跟老板说"要脆底""],
+    "tips": ["下午2点半到5点半休息，别跑空", "饭点人多可能需拼桌", "喜欢吃锅巴跟老板说要脆底"],
     "updated_at": "2026-04-24"
   },
   {
@@ -427,7 +427,7 @@
     "name_en": "Haocai Claypot Rice (Beijing Road Main Branch)",
     "category": "小吃",
     "subcategory": ["煲仔饭", "老字号", "40年老店", "八旗二马路小学周边"],
-    "description": "开了40多年的"广州煲仔饭代表"，最早是裁缝师傅开的，现在已经是几代人的回忆，最火的时候一天能卖1000煲。酱油是独家调制的，老抽和生抽按1:6的比例调的，鲜香味更浓。",
+    "description": "开了40多年的广州煲仔饭代表，最早是裁缝师傅开的，现在已经是几代人的回忆，最火的时候一天能卖1000煲。酱油是独家调制的，老抽和生抽按1:6的比例调的，鲜香味更浓。",
     "description_en": "40-year-old claypot rice legend, once sold 1000 pots per day.",
     "location": {
       "address": "广州市越秀区北京南路44号",
@@ -442,5 +442,225 @@
     "opening_hours": "10:00-02:00（总店）, 10:00-21:00（东川路店）",
     "tips": ["总店开到凌晨2点，可吃夜宵", "5块钱可买一大碗老火靓汤", "东川路店才有海皇鲍鱼煲仔饭"],
     "updated_at": "2026-04-24"
+  },
+  {
+    "id": "food_022",
+    "name": "陶陶居（北京路天河城店）",
+    "name_en": "Taotaoju (Beijing Road Teemall Branch)",
+    "category": "粤菜",
+    "subcategory": ["老字号", "早茶", "百年老店", "北京路"],
+    "description": "百年老字号粤菜代表，古法烧鹅年销量超100万只，皮脆肉嫩配酸梅酱超解腻。早茶必点酥皮水牛奶菠萝包，内馅爆浆酥皮掉渣。14:00后到店还能赶上茶点买一送一的优惠。",
+    "description_en": "Century-old Cantonese cuisine brand, famous for roast goose and pineapple bun.",
+    "location": {
+      "address": "广州市越秀区北京路天河城",
+      "district": "越秀区",
+      "latitude": 23.1196,
+      "longitude": 113.2698,
+      "metro": "6号线 - 北京路站B口（5分钟）"
+    },
+    "signature_dishes": ["古法烧鹅", "酥皮水牛奶菠萝包", "陶陶居大虾饺", "酸梅酱烧鹅"],
+    "price_range": "¥80-150/人",
+    "rating": 4.8,
+    "opening_hours": "10:00-22:00",
+    "tips": ["14:00后茶点可能买一送一", "古法烧鹅年销超100万只", "酥皮水牛奶菠萝包必点"],
+    "updated_at": "2026-04-25"
+  },
+  {
+    "id": "food_023",
+    "name": "莲香楼（北京路店）",
+    "name_en": "Lin Heung Restaurant (Beijing Road Branch)",
+    "category": "粤菜",
+    "subcategory": ["老字号", "饼家", "莲蓉第一家", "北京路"],
+    "description": "被称为莲蓉第一家，莲蓉包用湘潭寸三莲制作，细腻无渣。咸香鸡仔饼是老广州手信的代表，店里还保留着1920年代的木质楼梯，吃完还能拍复古照片。",
+    "description_en": "Known as 'The First Lotus Paste House', famous for lotus seed paste buns.",
+    "location": {
+      "address": "广州市越秀区北京路313号首层",
+      "district": "越秀区",
+      "latitude": 23.1254,
+      "longitude": 113.2684,
+      "metro": "6号线 - 北京路站"
+    },
+    "signature_dishes": ["莲蓉包", "咸香鸡仔饼", "嫁女饼", "传统广式月饼"],
+    "price_range": "¥30-60/人",
+    "rating": 4.7,
+    "opening_hours": "08:00-20:00",
+    "tips": ["1920年代木质楼梯可拍照", "莲蓉包用湘潭寸三莲制作", "鸡仔饼是老广州手信代表"],
+    "updated_at": "2026-04-25"
+  },
+  {
+    "id": "food_024",
+    "name": "向群饭店（北京路第六分店）",
+    "name_en": "Xiangqun Restaurant (Beijing Road 6th Branch)",
+    "category": "粤菜",
+    "subcategory": ["本地人常去", "粤菜", "北京路"],
+    "description": "本地人常去的粤菜馆，葱油淋鸡用清远鸡现杀现做，葱油香气扑鼻嫩滑不柴。避风塘炒蟹蟹肉饱满，蒜香和辣椒融合得刚好。17:30前到店基本不用排队，还能领免费停车券。",
+    "description_en": "Popular local Cantonese restaurant, famous for scallion oil chicken.",
+    "location": {
+      "address": "广州市越秀区北京路",
+      "district": "越秀区",
+      "latitude": 23.1169,
+      "longitude": 113.2705,
+      "metro": "6号线 - 北京路站"
+    },
+    "signature_dishes": ["葱油淋鸡", "避风塘炒蟹", "清远鸡", "广式烧味"],
+    "price_range": "¥80-150/人",
+    "rating": 4.7,
+    "opening_hours": "11:00-21:30",
+    "tips": ["17:30前到店不用排队", "可领免费停车券", "葱油淋鸡用清远鸡现杀现做"],
+    "updated_at": "2026-04-25"
+  },
+  {
+    "id": "food_025",
+    "name": "民记煲仔饭（北京路店）",
+    "name_en": "Minji Claypot Rice (Beijing Road Branch)",
+    "category": "小吃",
+    "subcategory": ["煲仔饭", "老字号", "1979年始创", "北京路"],
+    "description": "始创于1979年的传统煲仔饭老店，招牌美味牛肉生蛋饭上桌后趁热把窝蛋、牛肉和米饭拌匀，蛋香混着牛肉香超浓郁，是吃了几十年的老味道。",
+    "description_en": "Traditional claypot rice shop since 1979, famous for beef and egg rice.",
+    "location": {
+      "address": "广州市越秀区北京路",
+      "district": "越秀区",
+      "latitude": 23.1170,
+      "longitude": 113.2700,
+      "metro": "6号线 - 北京路站"
+    },
+    "signature_dishes": ["美味牛肉生蛋饭", "腊味煲仔饭", "黄鳝煲仔饭"],
+    "price_range": "¥25-40/人",
+    "rating": 4.7,
+    "opening_hours": "11:00-21:00",
+    "tips": ["1979年始创的老店", "窝蛋牛肉饭必点", "趁热拌匀蛋液和米饭"],
+    "updated_at": "2026-04-25"
+  },
+  {
+    "id": "food_026",
+    "name": "第壹面（北京路店）",
+    "name_en": "Di Yi Mian (Beijing Road Branch)",
+    "category": "小吃",
+    "subcategory": ["云吞面", "竹升面", "北京路"],
+    "description": "广州首创用电动机制竹升面的云吞面店，汤底用猪骨、大地鱼、虾籽加秘制材料熬制，鲜甜味浓。云吞馅有鲜肉、虾仁、蟹籽，虾味特别足，面条爽滑细腻。",
+    "description_en": "First shop in Guangzhou to use electric machine for bamboo-pressed noodles.",
+    "location": {
+      "address": "广州市越秀区北京路",
+      "district": "越秀区",
+      "latitude": 23.1175,
+      "longitude": 113.2695,
+      "metro": "6号线 - 北京路站"
+    },
+    "signature_dishes": ["鲜虾云吞面", "蟹籽云吞面", "竹升面", "大地鱼汤底"],
+    "price_range": "¥20-35/人",
+    "rating": 4.6,
+    "opening_hours": "10:00-21:00",
+    "tips": ["汤底用猪骨、大地鱼、虾籽熬制", "云吞馅有鲜肉、虾仁、蟹籽", "面条爽滑细腻"],
+    "updated_at": "2026-04-25"
+  },
+  {
+    "id": "food_027",
+    "name": "太平沙财记（大南路店）",
+    "name_en": "Taiping Sha Caiji (Danansu Road Branch)",
+    "category": "小吃",
+    "subcategory": ["牛腩粉", "老字号", "北京路周边"],
+    "description": "牛腩粉是招牌，粉条柔韧爽口，牛腩炖得软嫩香滑。秘诀是每天用小火慢炖一夜的牛肉汤底，配一点秘制辣椒酱更开胃。",
+    "description_en": "Famous for beef brisket rice noodles, slow-cooked overnight.",
+    "location": {
+      "address": "广州市越秀区大南路",
+      "district": "越秀区",
+      "latitude": 23.1200,
+      "longitude": 113.2668,
+      "metro": "6号线 - 北京路站"
+    },
+    "signature_dishes": ["牛腩粉", "牛腩面", "秘制辣椒酱"],
+    "price_range": "¥20-35/人",
+    "rating": 4.6,
+    "opening_hours": "10:00-21:00",
+    "tips": ["牛腩用小火慢炖一夜", "配秘制辣椒酱更开胃", "粉条柔韧爽口"],
+    "updated_at": "2026-04-25"
+  },
+  {
+    "id": "food_028",
+    "name": "八珍餐厅（北京路总店）",
+    "name_en": "Bazhen Restaurant (Beijing Road Main Branch)",
+    "category": "小吃",
+    "subcategory": ["煎饺", "老字号", "北京路"],
+    "description": "广式煎饺代表，韭菜馅里加了韭黄，煎得皮脆馅香还饱满带汁。配一碗猪红汤是老食客的经典吃法。",
+    "description_en": "Representative of Cantonese pan-fried dumplings with chive filling.",
+    "location": {
+      "address": "广州市越秀区北京路",
+      "district": "越秀区",
+      "latitude": 23.1180,
+      "longitude": 113.2690,
+      "metro": "6号线 - 北京路站"
+    },
+    "signature_dishes": ["广式煎饺", "韭菜韭黄馅煎饺", "猪红汤"],
+    "price_range": "¥15-30/人",
+    "rating": 4.6,
+    "opening_hours": "07:00-20:00",
+    "tips": ["韭菜馅加韭黄更香", "配猪红汤是经典吃法", "煎饺皮脆馅香饱满带汁"],
+    "updated_at": "2026-04-25"
+  },
+  {
+    "id": "food_029",
+    "name": "顺记冰室（惠福东路店）",
+    "name_en": "Shunji Ice Room (Huifu East Road Branch)",
+    "category": "甜品",
+    "subcategory": ["雪糕", "老字号", "童年回忆", "北京路周边"],
+    "description": "广州人的童年回忆，椰子雪糕用海南椰皇鲜榨，能吃到清晰的椰肉颗粒。榴莲雪糕用马来西亚猫山王果肉制成，浓郁香甜。夏天经常排队到店外，建议搭配红豆冰一起吃。",
+    "description_en": "Childhood memory of Guangzhou people, famous for coconut and durian ice cream.",
+    "location": {
+      "address": "广州市越秀区惠福东路",
+      "district": "越秀区",
+      "latitude": 23.1205,
+      "longitude": 113.2653,
+      "metro": "6号线 - 北京路站"
+    },
+    "signature_dishes": ["椰子雪糕", "榴莲雪糕", "红豆冰", "芒果雪糕"],
+    "price_range": "¥15-30/人",
+    "rating": 4.7,
+    "opening_hours": "10:00-22:00",
+    "tips": ["椰子雪糕用海南椰皇鲜榨", "榴莲雪糕用猫山王果肉", "夏天排队到店外建议搭配红豆冰"],
+    "updated_at": "2026-04-25"
+  },
+  {
+    "id": "food_030",
+    "name": "五代同糖（北京路店）",
+    "name_en": "Wu Dai Tong Tang (Beijing Road Branch)",
+    "category": "甜品",
+    "subcategory": ["港式甜品", "榴莲河粉", "北京路"],
+    "description": "香港知名甜品品牌，独创榴莲河粉是招牌。用椰汁和牛奶做的河粉铺满整层榴莲果肉，入口即化口感丝滑。还有各类经典港式甜品可选。",
+    "description_en": "Hong Kong dessert brand, famous for original durian flat noodles.",
+    "location": {
+      "address": "广州市越秀区北京路",
+      "district": "越秀区",
+      "latitude": 23.1185,
+      "longitude": 113.2685,
+      "metro": "6号线 - 北京路站"
+    },
+    "signature_dishes": ["榴莲河粉", "椰汁河粉", "杨枝甘露", "芒果班戟"],
+    "price_range": "¥25-45/人",
+    "rating": 4.6,
+    "opening_hours": "11:00-22:00",
+    "tips": ["榴莲河粉是招牌", "椰汁和牛奶做的河粉入口即化", "还有各类经典港式甜品"],
+    "updated_at": "2026-04-25"
+  },
+  {
+    "id": "food_031",
+    "name": "茶理宜世（粤海仰忠汇店）",
+    "name_en": "Chali Yishi (Yuehai Yangzhonghui Branch)",
+    "category": "茶饮",
+    "subcategory": ["奶茶", "广州版茶颜悦色", "北京路周边"],
+    "description": "广州版茶颜悦色，招牌郁郁幽兰是锡兰红茶底加忌廉顶，撒碧根果碎。点单选去冰半糖口感更清爽，逛累了喝一杯超舒服。",
+    "description_en": "Guangzhou version of Chayan Yuese, famous for Ceylon black tea with cream top.",
+    "location": {
+      "address": "广州市越秀区北京路粤海仰忠汇",
+      "district": "越秀区",
+      "latitude": 23.1190,
+      "longitude": 113.2680,
+      "metro": "6号线 - 北京路站"
+    },
+    "signature_dishes": ["郁郁幽兰", "锡兰红茶忌廉顶", "碧根果碎奶茶"],
+    "price_range": "¥15-25/人",
+    "rating": 4.5,
+    "opening_hours": "10:00-22:00",
+    "tips": ["选去冰半糖口感更清爽", "招牌郁郁幽兰是锡兰红茶底", "逛累了喝一杯超舒服"],
+    "updated_at": "2026-04-25"
   }
 ]
