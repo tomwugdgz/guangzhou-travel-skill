@@ -27,6 +27,21 @@
 
 ---
 
+## 👤 项目作者
+
+### 胡允谦 (Hu Yunqian)
+- 📧 **Email**: gzsuperbb@gmail.com
+- 💬 **微信**: huyunqian2017
+- 🏫 **学校**: 八旗二马路小学
+- 🌟 **角色**: 项目发起人、内容策划、数据采集
+
+### Tom Wu
+- 📧 **Email**: duckwolf@qq.com
+- 💻 **GitHub**: [@tomwugdgz](https://github.com/tomwugdgz)
+- 🌟 **角色**: 技术开发、架构设计、API 集成
+
+---
+
 ## 项目信息
 
 - **项目名称**: guangzhou-travel-skill
