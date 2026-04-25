@@ -662,5 +662,115 @@
     "opening_hours": "10:00-22:00",
     "tips": ["选去冰半糖口感更清爽", "招牌郁郁幽兰是锡兰红茶底", "逛累了喝一杯超舒服"],
     "updated_at": "2026-04-25"
+  },
+  {
+    "id": "food_032",
+    "name": "银记肠粉店（北京路店）",
+    "name_en": "Yinji Rice Noodle Roll (Beijing Road Branch)",
+    "category": "小吃",
+    "subcategory": ["肠粉", "老字号", "布拉肠粉", "北京路"],
+    "description": "提供最传统的布拉肠粉，选择多样，如牛肉肠、鲜虾肠等。肠粉以够滑、够薄、够爽、够味著称，同时这里的艇仔粥也值得一试。",
+    "description_en": "Most traditional pulled rice noodle rolls, known for being smooth, thin, and tasty.",
+    "location": {
+      "address": "广州市越秀区北京路",
+      "district": "越秀区",
+      "latitude": 23.1175,
+      "longitude": 113.2695,
+      "metro": "6号线 - 北京路站"
+    },
+    "signature_dishes": ["牛肉肠", "鲜虾肠", "艇仔粥", "布拉肠粉"],
+    "price_range": "¥15-30/人",
+    "rating": 4.6,
+    "opening_hours": "07:00-20:00",
+    "tips": ["肠粉够滑够薄够爽够味", "艇仔粥值得一试", "选择多样"],
+    "updated_at": "2026-04-25"
+  },
+  {
+    "id": "food_033",
+    "name": "阿婆牛杂（北京路店）",
+    "name_en": "Apo Beef Offal (Beijing Road Branch)",
+    "category": "小吃",
+    "subcategory": ["牛杂", "非物质文化遗产", "北京路"],
+    "description": "品牌始于2019年，其制作工艺被认证为广州非物质文化遗产。招牌牛杂经过七道工序精细制作，干净卫生、入味且有口感。",
+    "description_en": "Brand established in 2019, certified as Guangzhou intangible cultural heritage.",
+    "location": {
+      "address": "广州市越秀区北京路",
+      "district": "越秀区",
+      "latitude": 23.1180,
+      "longitude": 113.2690,
+      "metro": "6号线 - 北京路站"
+    },
+    "signature_dishes": ["招牌牛杂", "牛杂萝卜", "牛杂面"],
+    "price_range": "¥20-35/人",
+    "rating": 4.6,
+    "opening_hours": "10:00-21:00",
+    "tips": ["广州非物质文化遗产", "七道工序精细制作", "干净卫生入味有口感"],
+    "updated_at": "2026-04-25"
+  },
+  {
+    "id": "food_034",
+    "name": "苏记美食",
+    "name_en": "Suji Cuisine",
+    "category": "小吃",
+    "subcategory": ["牛杂", "老字号", "文明路"],
+    "description": "位于文明路76号，净牛杂分量足，软嫩入味，嚼起来痛快。再蘸上又香又麻的辣椒酱，非常正点。",
+    "description_en": "Located at 76 Wenming Road, famous for generous portions of tender beef offal.",
+    "location": {
+      "address": "广州市越秀区文明路76号",
+      "district": "越秀区",
+      "latitude": 23.1226,
+      "longitude": 113.2734,
+      "metro": "6号线 - 北京路站"
+    },
+    "signature_dishes": ["净牛杂", "牛杂萝卜", "秘制辣椒酱"],
+    "price_range": "¥20-35/人",
+    "rating": 4.7,
+    "opening_hours": "10:00-21:00",
+    "tips": ["净牛杂分量足", "蘸又香又麻的辣椒酱", "软嫩入味嚼起来痛快"],
+    "updated_at": "2026-04-25"
+  },
+  {
+    "id": "food_035",
+    "name": "仁信老铺",
+    "name_en": "Renxin Old Shop",
+    "category": "甜品",
+    "subcategory": ["双皮奶", "老字号", "北京路周边"],
+    "description": "这里的双皮奶奶味浓郁香醇，口感顺滑。红豆姜汁双皮奶的姜汁味道浓郁，冬天食用有驱寒之效。",
+    "description_en": "Famous for rich and smooth double-skin milk, especially red bean ginger flavor.",
+    "location": {
+      "address": "广州市越秀区北京路周边",
+      "district": "越秀区",
+      "latitude": 23.1200,
+      "longitude": 113.2680,
+      "metro": "6号线 - 北京路站"
+    },
+    "signature_dishes": ["双皮奶", "红豆姜汁双皮奶", "姜撞奶"],
+    "price_range": "¥15-30/人",
+    "rating": 4.7,
+    "opening_hours": "10:00-22:00",
+    "tips": ["双皮奶奶味浓郁香醇", "红豆姜汁双皮奶冬天驱寒", "口感顺滑"],
+    "updated_at": "2026-04-25"
+  },
+  {
+    "id": "food_036",
+    "name": "达杨原味炖品",
+    "name_en": "Dayang Original Stewed Food",
+    "category": "炖品",
+    "subcategory": ["炖汤", "老字号", "文明路"],
+    "description": "炖品味道出色，特别是原只椰子炖竹丝鸡，汤汁浓郁香甜，鸡肉嫩滑，令人留恋。位于文明路160号-1。",
+    "description_en": "Excellent stewed food, especially coconut stewed black-bone chicken.",
+    "location": {
+      "address": "广州市越秀区文明路160号-1",
+      "district": "越秀区",
+      "latitude": 23.1226,
+      "longitude": 113.2734,
+      "metro": "6号线 - 北京路站"
+    },
+    "signature_dishes": ["原只椰子炖竹丝鸡", "椰汁炖鸡", "炖汤"],
+    "price_range": "¥25-45/人",
+    "rating": 4.8,
+    "opening_hours": "11:00-21:00",
+    "tips": ["原只椰子炖竹丝鸡必点", "汤汁浓郁香甜", "鸡肉嫩滑令人留恋"],
+    "updated_at": "2026-04-25"
   }
 ]
