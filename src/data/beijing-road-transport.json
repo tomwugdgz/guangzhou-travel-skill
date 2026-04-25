@@ -1,0 +1,347 @@
+[
+  {
+    "id": "transport_001",
+    "title": "地铁 6 号线北京路站",
+    "title_en": "Metro Line 6 Beijing Road Station",
+    "category": "地铁交通",
+    "summary": "直达北京路步行街核心区，2013 年 12 月 28 日开通运营，首班车最早 06:05，末班车最晚 23:37。",
+    "content": "地铁 6 号线北京路站直达北京路步行街核心区，2013 年 12 月 28 日开通运营，首班车最早 06:05，末班车最晚 23:37。这是到达北京路最方便的地铁线路。",
+    "kid_description": "坐地铁 6 号线到北京路站就可以到北京路啦！早上 6 点多就有车，晚上 11 点多还有车，超方便的！",
+    "location": {
+      "address": "广州市越秀区北京路",
+      "district": "越秀区",
+      "latitude": 23.1228,
+      "longitude": 113.2691
+    },
+    "metro_lines": ["6 号线 - 北京路站"],
+    "updated_at": "2026-04-25"
+  },
+  {
+    "id": "transport_002",
+    "title": "地铁 1/2 号线公园前站",
+    "title_en": "Metro Line 1/2 Gongyuanqian Station",
+    "category": "地铁交通",
+    "summary": "D/E 出口直通北京路步行街西段，是主要换乘站之一。",
+    "content": "地铁 1/2 号线公园前站 D/E 出口直通北京路步行街西段，是主要换乘站之一。这是到达北京路另一个方便的地铁站。",
+    "kid_description": "坐 1 号线或 2 号线到公园前站，从 D 或 E 出口出来就能到北京路西段啦！",
+    "location": {
+      "address": "广州市越秀区中山五路",
+      "district": "越秀区",
+      "latitude": 23.1260,
+      "longitude": 113.2640
+    },
+    "metro_lines": ["1 号线", "2 号线 - 公园前站"],
+    "updated_at": "2026-04-25"
+  },
+  {
+    "id": "transport_003",
+    "title": "北京路站出口分布",
+    "title_en": "Beijing Road Station Exits",
+    "category": "地铁交通",
+    "summary": "6 号线北京路站 A1 口、B 口等；B 口靠近广百百货。",
+    "content": "6 号线北京路站 A1 口、B 口等出口分布；B 口靠近广百百货。不同的出口可以到达北京路的不同位置。",
+    "kid_description": "北京路站有好多出口哦！B 口出来就是广百百货，想去哪里就从哪个口出！",
+    "location": {
+      "address": "广州市越秀区北京路",
+      "district": "越秀区",
+      "latitude": 23.1228,
+      "longitude": 113.2691
+    },
+    "metro_lines": ["6 号线 - 北京路站"],
+    "updated_at": "2026-04-25"
+  },
+  {
+    "id": "transport_004",
+    "title": "广州南站→北京路",
+    "title_en": "Guangzhou South Station to Beijing Road",
+    "category": "长途交通",
+    "summary": "乘 2 号线转 6 号线至北京路站，约 35 分钟。",
+    "content": "从广州南站到北京路，乘 2 号线转 6 号线至北京路站，约 35 分钟。这是从高铁站到达北京路的常用路线。",
+    "kid_description": "从广州南站坐 2 号线换 6 号线，大概 35 分钟就能到北京路啦！",
+    "location": {
+      "address": "广州市番禺区广州南站",
+      "district": "番禺区",
+      "latitude": 22.9897,
+      "longitude": 113.2689
+    },
+    "metro_lines": ["2 号线转 6 号线"],
+    "travel_time": "约 35 分钟",
+    "updated_at": "2026-04-25"
+  },
+  {
+    "id": "transport_005",
+    "title": "广州东站→北京路",
+    "title_en": "Guangzhou East Station to Beijing Road",
+    "category": "长途交通",
+    "summary": "乘 3 号线转 6 号线至北京路站，约 25 分钟。",
+    "content": "从广州东站到北京路，乘 3 号线转 6 号线至北京路站，约 25 分钟。这是从火车东站到达北京路的常用路线。",
+    "kid_description": "从广州东站坐 3 号线换 6 号线，大概 25 分钟就能到北京路啦！",
+    "location": {
+      "address": "广州市天河区广州东站",
+      "district": "天河区",
+      "latitude": 23.1520,
+      "longitude": 113.3220
+    },
+    "metro_lines": ["3 号线转 6 号线"],
+    "travel_time": "约 25 分钟",
+    "updated_at": "2026-04-25"
+  },
+  {
+    "id": "transport_006",
+    "title": "白云机场→北京路",
+    "title_en": "Baiyun Airport to Beijing Road",
+    "category": "长途交通",
+    "summary": "乘 3 号线转 6 号线至北京路站，约 60 分钟。",
+    "content": "从白云机场到北京路，乘 3 号线转 6 号线至北京路站，约 60 分钟。这是从机场到达北京路的常用路线。",
+    "kid_description": "从白云机场坐 3 号线换 6 号线，大概 1 小时就能到北京路啦！",
+    "location": {
+      "address": "广州市白云区白云机场",
+      "district": "白云区",
+      "latitude": 23.3924,
+      "longitude": 113.2988
+    },
+    "metro_lines": ["3 号线转 6 号线"],
+    "travel_time": "约 60 分钟",
+    "updated_at": "2026-04-25"
+  },
+  {
+    "id": "transport_007",
+    "title": "公交财厅站",
+    "title_en": "Bus Caiting Station",
+    "category": "公交交通",
+    "summary": "可乘 107 路、191 路等多条公交线路到达（107/191 路可直达沙面）。",
+    "content": "公交财厅站可乘 107 路、191 路等多条公交线路到达北京路附近，其中 107/191 路可直达沙面。这是到达北京路的公交方式之一。",
+    "kid_description": "坐 107 路或 191 路公交车到财厅站，就能到北京路附近啦！还能顺便去沙面玩哦！",
+    "location": {
+      "address": "广州市越秀区财厅前",
+      "district": "越秀区",
+      "latitude": 23.1280,
+      "longitude": 113.2680
+    },
+    "bus_lines": ["107 路", "191 路"],
+    "updated_at": "2026-04-25"
+  },
+  {
+    "id": "transport_008",
+    "title": "公交北京南站",
+    "title_en": "Bus Beijing South Station",
+    "category": "公交交通",
+    "summary": "位于北京路南段，多条公交线路可达。",
+    "content": "公交北京南站位于北京路南段，多条公交线路可达。这是到达北京路南段的公交方式。",
+    "kid_description": "北京南站就在北京路南边，好多路公交车都能到！",
+    "location": {
+      "address": "广州市越秀区北京路南段",
+      "district": "越秀区",
+      "latitude": 23.1180,
+      "longitude": 113.2690
+    },
+    "bus_lines": ["多条公交线路"],
+    "updated_at": "2026-04-25"
+  },
+  {
+    "id": "transport_009",
+    "title": "天字码头",
+    "title_en": "Tianzi Pier",
+    "category": "水上交通",
+    "summary": "位于北京路南端珠江边、沿江中路与北京路交界处，是广州历史最悠久的珠江夜游码头，俗称广州第一码头。",
+    "content": "天字码头位于北京路南端珠江边、沿江中路与北京路交界处，是广州历史最悠久的珠江夜游码头，俗称广州第一码头。交通方式：地铁 6 号线北京路站 A 口出步行 10 分钟，或 2 号线海珠广场站 A 出口步行 5 分钟；公交 4 路、57 路、128 路、131A 路、208 路等至天字码头站。",
+    "kid_description": "天字码头在广州第一码头！坐地铁到北京路站走 10 分钟就到，可以坐船夜游珠江哦！",
+    "location": {
+      "address": "广州市越秀区沿江中路",
+      "district": "越秀区",
+      "latitude": 23.1145,
+      "longitude": 113.2733
+    },
+    "metro_lines": ["6 号线 - 北京路站", "2 号线 - 海珠广场站"],
+    "bus_lines": ["4 路", "57 路", "128 路", "131A 路", "208 路"],
+    "updated_at": "2026-04-25"
+  },
+  {
+    "id": "transport_010",
+    "title": "自驾停车推荐",
+    "title_en": "Self-driving Parking Recommendation",
+    "category": "自驾交通",
+    "summary": "周边推荐停捷登都会商场停车场，约 12 元/小时，步行 5 分钟可达北京路。",
+    "content": "自驾到北京路，周边推荐停捷登都会商场停车场，约 12 元/小时，步行 5 分钟可达北京路。这是自驾游客的常用停车选择。",
+    "kid_description": "如果爸爸妈妈开车来，可以停在捷登都会商场停车场，一小时大概 12 块钱，走 5 分钟就到北京路啦！",
+    "location": {
+      "address": "广州市越秀区捷登都会",
+      "district": "越秀区",
+      "latitude": 23.1240,
+      "longitude": 113.2670
+    },
+    "parking_fee": "约 12 元/小时",
+    "walking_time": "5 分钟",
+    "updated_at": "2026-04-25"
+  },
+  {
+    "id": "transport_011",
+    "title": "周边停车费用",
+    "title_en": "Surrounding Parking Fees",
+    "category": "自驾交通",
+    "summary": "北京路商圈停车费约 10-16 元/小时；部分停车场小车 16 元/小时、大巴车 32 元/小时。",
+    "content": "北京路商圈停车费约 10-16 元/小时；部分停车场小车 16 元/小时、大巴车 32 元/小时。这是北京路周边的停车费用参考。",
+    "kid_description": "北京路附近停车大概一小时 10 到 16 块钱，大巴车要贵一点哦！",
+    "location": {
+      "address": "广州市越秀区北京路商圈",
+      "district": "越秀区",
+      "latitude": 23.1228,
+      "longitude": 113.2691
+    },
+    "parking_fee": "约 10-16 元/小时",
+    "updated_at": "2026-04-25"
+  },
+  {
+    "id": "transport_012",
+    "title": "北京路商圈离境退税商店",
+    "title_en": "Beijing Road Tax Refund Shops",
+    "category": "购物交通",
+    "summary": "集聚离境退税商店共 25 家，为广州市离境退税门店分布最密集的步行街；设有即买即退集中退付点。",
+    "content": "北京路商圈集聚离境退税商店共 25 家，为广州市离境退税门店分布最密集的步行街；设有即买即退集中退付点。这是外国游客购物的重要便利。",
+    "kid_description": "北京路有 25 家可以退税的商店！外国游客买东西可以退税哦，还有即买即退的服务！",
+    "location": {
+      "address": "广州市越秀区北京路商圈",
+      "district": "越秀区",
+      "latitude": 23.1228,
+      "longitude": 113.2691
+    },
+    "tax_refund_shops": 25,
+    "updated_at": "2026-04-25"
+  },
+  {
+    "id": "transport_013",
+    "title": "Alipay+ 跨境支付",
+    "title_en": "Alipay+ Cross-border Payment",
+    "category": "支付交通",
+    "summary": "北京路与蚂蚁集团合作推动 Alipay+ 跨境消费支付标识覆盖 400 多家商家，打通 10 余个境外支付电子钱包。",
+    "content": "北京路与蚂蚁集团合作推动 Alipay+ 跨境消费支付标识覆盖 400 多家商家，打通 10 余个境外支付电子钱包，触达超过 16 亿境外用户，打造入境消费友好型商圈。这是北京路国际化支付的重要体现。",
+    "kid_description": "北京路有 400 多家店可以用外国人的手机支付！这样外国游客来买东西就方便多啦！",
+    "location": {
+      "address": "广州市越秀区北京路商圈",
+      "district": "越秀区",
+      "latitude": 23.1228,
+      "longitude": 113.2691
+    },
+    "covered_merchants": "400+ 家",
+    "updated_at": "2026-04-25"
+  },
+  {
+    "id": "transport_014",
+    "title": "天字码头轮船渡江",
+    "title_en": "Tianzi Pier Ferry",
+    "category": "水上交通",
+    "summary": "有渡轮渡过珠江来往对岸海珠区的纺织码头及中大码头；另有广州水上巴士 S7 航线经停天字码头。",
+    "content": "天字码头有渡轮渡过珠江来往对岸海珠区的纺织码头及中大码头；另有广州水上巴士 S7 航线经停天字码头。这是珠江水上交通的重要方式。",
+    "kid_description": "在天字码头可以坐船过江！有渡轮去海珠区，还有水上巴士 S7 航线哦！",
+    "location": {
+      "address": "广州市越秀区沿江中路",
+      "district": "越秀区",
+      "latitude": 23.1145,
+      "longitude": 113.2733
+    },
+    "ferry_routes": ["纺织码头", "中大码头", "S7 水上巴士"],
+    "updated_at": "2026-04-25"
+  },
+  {
+    "id": "transport_015",
+    "title": "天字码头夜游特点",
+    "title_en": "Tianzi Pier Night Cruise Features",
+    "category": "水上交通",
+    "summary": "天字码头夜游船只最多、航次较多，靠近北京路，适合下午逛北京路后晚上坐船夜游珠江。",
+    "content": "天字码头夜游船只最多、航次较多，靠近北京路，适合下午逛北京路后晚上坐船夜游珠江。这是北京路与珠江夜游联动的重要方式。",
+    "kid_description": "天字码头的夜游船最多！下午逛完北京路，晚上就可以坐船看珠江夜景啦！",
+    "location": {
+      "address": "广州市越秀区沿江中路",
+      "district": "越秀区",
+      "latitude": 23.1145,
+      "longitude": 113.2733
+    },
+    "night_cruise": true,
+    "updated_at": "2026-04-25"
+  },
+  {
+    "id": "transport_016",
+    "title": "广交会期间 AR 路线图",
+    "title_en": "Canton Fair AR Route Map",
+    "category": "数字导览",
+    "summary": "广交会期间外国客商在百年骑楼下扫码领取 AR 探店路线图，以数字化导览方式引导游览与消费。",
+    "content": "广交会期间外国客商在百年骑楼下扫码领取 AR 探店路线图，以数字化导览方式引导游览与消费。这是北京路数字化导览的重要创新。",
+    "kid_description": "广交会的时候，外国人可以扫码看 AR 路线图！就像玩游戏一样逛北京路，超酷的！",
+    "location": {
+      "address": "广州市越秀区北京路步行街",
+      "district": "越秀区",
+      "latitude": 23.1228,
+      "longitude": 113.2691
+    },
+    "ar_guide": true,
+    "updated_at": "2026-04-25"
+  },
+  {
+    "id": "transport_017",
+    "title": "珠江夜游与北京路联动",
+    "title_en": "Pearl River Night Cruise and Beijing Road Linkage",
+    "category": "文旅联动",
+    "summary": "北京路联合珠江夜游、剧场演艺、中式餐饮、轻奢住宿等推出商旅文融合消费套票，首批 5 款套票已上线北京路小程序。",
+    "content": "北京路联合珠江夜游、剧场演艺、中式餐饮、轻奢住宿等推出商旅文融合消费套票，首批 5 款套票已上线北京路小程序。这是北京路文旅融合的重要产品。",
+    "kid_description": "北京路和珠江夜游有套票哦！可以一次玩好多地方，超划算的！",
+    "location": {
+      "address": "广州市越秀区北京路商圈",
+      "district": "越秀区",
+      "latitude": 23.1228,
+      "longitude": 113.2691
+    },
+    "combo_tickets": 5,
+    "updated_at": "2026-04-25"
+  },
+  {
+    "id": "transport_018",
+    "title": "广州站→北京路（打车）",
+    "title_en": "Guangzhou Station to Beijing Road (Taxi)",
+    "category": "长途交通",
+    "summary": "从广州火车站打车至天字码头约 15 元。",
+    "content": "从广州火车站打车至天字码头约 15 元。这是从广州火车站到达北京路的快捷方式。",
+    "kid_description": "从广州火车站打车到北京路大概 15 块钱，很快就能到！",
+    "location": {
+      "address": "广州市越秀区广州火车站",
+      "district": "越秀区",
+      "latitude": 23.1465,
+      "longitude": 113.2585
+    },
+    "taxi_fee": "约 15 元",
+    "updated_at": "2026-04-25"
+  },
+  {
+    "id": "transport_019",
+    "title": "地下古道遗址交通分流",
+    "title_en": "Underground Ancient Road Traffic Diversion",
+    "category": "步行交通",
+    "summary": "千年古道遗址位于北京路步行街中段，步行街本身为全天候步行区，所有机动车辆需停靠外围停车场后步行进入。",
+    "content": "千年古道遗址位于北京路步行街中段，步行街本身为全天候步行区，所有机动车辆需停靠外围停车场后步行进入。这是北京路步行化管理的重要特点。",
+    "kid_description": "北京路是步行街，车子不能进去哦！要把车停在外面，然后走路进去看千年古道！",
+    "location": {
+      "address": "广州市越秀区北京路步行街中段",
+      "district": "越秀区",
+      "latitude": 23.1249,
+      "longitude": 113.2688
+    },
+    "pedestrian_only": true,
+    "updated_at": "2026-04-25"
+  },
+  {
+    "id": "transport_020",
+    "title": "全运会交通提升",
+    "title_en": "National Games Traffic Improvement",
+    "category": "交通规划",
+    "summary": "北京路步行街以 2025 年广州举办全运会为契机，将组织文商旅体活动，做好赛事交通流量的转化，扩大商圈知名度和交通可达性。",
+    "content": "北京路步行街以 2025 年广州举办全运会为契机，将组织文商旅体活动，做好赛事交通流量的转化，扩大商圈知名度和交通可达性。这是北京路交通规划的重要机遇。",
+    "kid_description": "2025 年广州要办全运会啦！北京路会组织好多活动，交通也会更方便，更多人会来这里玩！",
+    "location": {
+      "address": "广州市越秀区北京路步行街",
+      "district": "越秀区",
+      "latitude": 23.1228,
+      "longitude": 113.2691
+    },
+    "national_games_2025": true,
+    "updated_at": "2026-04-25"
+  }
+]
